@@ -37,7 +37,7 @@ const SvgRs = (props) => (
       <Path d="M0 10h21v5H0z" fill="url(#RS_svg__a)" />
       <G transform="translate(4 5)">
         <Mask fill="#fff" id="RS_svg__e">
-          <Use xlinkHref="#RS_svg__d" />
+          {/* <Use xlinkHref="#RS_svg__d" /> */}
         </Mask>
         <Use fill="url(#RS_svg__a)" xlinkHref="#RS_svg__d" />
         <Path

@@ -1,6 +1,6 @@
 {
   "name": "@ckbab/react-native-flag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native component for country flags.",
   "main": "index.js",
   "scripts": {

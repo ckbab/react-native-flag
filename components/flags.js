@@ -22,6 +22,7 @@ import Bi from "./svgComponents/Bi";
 import Bj from "./svgComponents/Bj";
 import Bn from "./svgComponents/Bn";
 import Bo from "./svgComponents/Bo";
+import Br from "./svgComponents/Br";
 import Bs from "./svgComponents/Bs";
 import Bt from "./svgComponents/Bt";
 import Bv from "./svgComponents/Bv";
@@ -108,6 +109,7 @@ import Ki from "./svgComponents/Ki";
 import Km from "./svgComponents/Km";
 import Kn from "./svgComponents/Kn";
 import Kp from "./svgComponents/Kp";
+import Kr from "./svgComponents/Kr";
 import Kw from "./svgComponents/Kw";
 import Kz from "./svgComponents/Kz";
 import La from "./svgComponents/La";
@@ -165,6 +167,7 @@ import Py from "./svgComponents/Py";
 import Qa from "./svgComponents/Qa";
 import Re from "./svgComponents/Re";
 import Ro from "./svgComponents/Ro";
+import Rs from "./svgComponents/Rs";
 import Ru from "./svgComponents/Ru";
 import Rw from "./svgComponents/Rw";
 import Sa from "./svgComponents/Sa";
@@ -335,7 +338,7 @@ const flags = [
   },
   {
     code: "BR",
-    component: null,
+    component: Br,
   },
   {
     code: "BS",
@@ -723,7 +726,7 @@ const flags = [
   },
   {
     code: "KR",
-    component: null,
+    component: Kr,
   },
   {
     code: "KW",
@@ -1009,8 +1012,7 @@ const flags = [
   },
   {
     code: "RS",
-    // component: Rs
-    component: null,
+    component: Rs,
   },
   {
     code: "RU",
