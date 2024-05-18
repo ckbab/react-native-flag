@@ -178,6 +178,7 @@ import Se from "./svgComponents/Se";
 import Sg from "./svgComponents/Sg";
 import Si from "./svgComponents/Si";
 import Sj from "./svgComponents/Sj";
+import Sk from "./svgComponents/Sk";
 import Sl from "./svgComponents/Sl";
 import Sm from "./svgComponents/Sm";
 import Sn from "./svgComponents/Sn";
@@ -1061,7 +1062,7 @@ const flags = [
   },
   {
     code: "SK",
-    // component: Sk
+    component: Sk,
   },
   {
     code: "SL",
